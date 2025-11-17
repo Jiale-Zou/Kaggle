@@ -1,0 +1,19 @@
+### Codes for kaggle competition 'Predicting Loan Payback' ###
+
+///
+The file named 'explore.ipynb' contains steps of data exploration.
+Subdirectory 'model' contains the paramameters of models.
+The other 'ipynb' files are several models for this competition.
+///
+
+'scale_weight.ipynb':
+Using cost-sensitive learning to deal with sample unbalanced.
+
+'resample.ipynb':
+Using upsampleing on minority label to deal with sample unbalanced.
+
+'multi_machine.ipynb'
+Using data splitting and bagging methodology to deal with sample unbalanced.
+
+'multi_machine_balanced.ipynb'
+The only difference between 'multi_machine.ipynb' and 'multi_machine_balanced.ipynb' is that the preprocessing method on valid dataset dan test dataset.
