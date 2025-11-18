@@ -19,6 +19,6 @@ The only difference between 'multi_machine.ipynb' and 'multi_machine_balanced.ip
 
 
 *** Evaluation metrics and model performance ***
-AUC: 92.567%
-ACC: 86.885%
-F1: 91.513%
+AUC: 92.648%
+ACC: 87.369%
+F1: 91.859%
