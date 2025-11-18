@@ -1,6 +1,7 @@
 ### Codes for kaggle competition 'Predicting Loan Payback' ###
 
-The file named 'explore.ipynb' contains steps of data exploration.
+The file named 'utils.py' contains some utility classes,
+and file named 'explore.ipynb' contains steps of data exploration.
 Subdirectory 'model' contains the paramameters of models.
 The other 'ipynb' files are several models for this competition.
 
