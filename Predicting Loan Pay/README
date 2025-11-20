@@ -6,10 +6,10 @@ Subdirectory 'model' contains the paramameters of models.
 The other 'ipynb' files are several models for this competition.
 
 
-1. 'scale_weight.ipynb':
+1. 'scale_weight.ipynb'
 Using cost-sensitive learning to deal with sample unbalanced.
 
-2. 'resample.ipynb':
+2. 'resample.ipynb'
 Using upsampleing on minority label to deal with sample unbalanced.
 
 3. 'multi_machine.ipynb'
@@ -17,6 +17,9 @@ Using data splitting and bagging methodology to deal with sample unbalanced.
 
 4. 'multi_machine_balanced.ipynb'
 The only difference between 'multi_machine.ipynb' and 'multi_machine_balanced.ipynb' is that the preprocessing method on valid dataset dan test dataset.
+
+5. 'trompt.ipynb'
+Fit the date in Trompt.
 
 
 *** Evaluation metrics and model performance ***
